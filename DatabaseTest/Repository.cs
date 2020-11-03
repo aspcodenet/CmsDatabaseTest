@@ -24,13 +24,7 @@ namespace DatabaseTest
 
     }
 
-    public class Publishers
-    {
-        public string Pub_id { get; set; }
-        public string Pub_name { get; set; }
-
-    }
-
+  
 
     public class Repository
     {
