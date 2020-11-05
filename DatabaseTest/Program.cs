@@ -84,6 +84,9 @@ namespace DatabaseTest
 
         static void Main(string[] args)
         {
+            var s = new SupplierAdmin();
+            s.Run();
+
             FirstDemo5();
             FirstDemo5();
             Demo123();
