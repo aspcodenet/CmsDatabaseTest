@@ -84,6 +84,10 @@ namespace DatabaseTest
 
         static void Main(string[] args)
         {
+            var s2 = new StudentAdmin();
+            s2.Run();
+
+
             var s = new SupplierAdmin();
             s.Run();
 
